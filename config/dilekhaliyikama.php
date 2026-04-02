@@ -26,6 +26,6 @@ return [
         'Overlok' => []
     ],
     'hizmet_bolgeleri' => [
-        'Akçay', 'Edremit', 'Zeytinli', 'Güre', 'Altınoluk' // Burayı kendi bölgelerine göre artırabilirsin
+        'Akçay Halı Yıkama', 'Edremit Halı Yıkama', 'Zeytinli Halı Yıkama', 'Güre Halı Yıkama'
     ]
 ];

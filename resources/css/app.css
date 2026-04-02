@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Sayfa içi pürüzsüz kaydırma */
 html {
     scroll-behavior: smooth;
 }
