@@ -16,7 +16,8 @@ export default {
         }
       },
       fontFamily: {
-        sans: ['Inter', 'sans-serif'], // Kurumsal ve şık bir font
+        // Kralın Lüks Fontu: Outfit (Inter yerine bunu atadık)
+        sans: ['Outfit', 'sans-serif'],
       }
     },
   },

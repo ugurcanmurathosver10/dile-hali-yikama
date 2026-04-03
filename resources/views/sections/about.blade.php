@@ -32,7 +32,7 @@
                     </span>
                     <h2 class="text-4xl lg:text-6xl font-black text-gray-900 leading-tight mb-6">
                         Sadece Yıkamıyoruz, <br>
-                        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-dark to-brand-light">Yeniden Doğuruyoruz.</span>
+                        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-dark to-brand-light">%100 Hijyenik Temizlik Sunuyoruz </span>
                     </h2>
                     <p class="text-lg text-gray-600 leading-relaxed font-light">
                         {{ config('dilekhaliyikama.firma_adi') }} olarak, halılarınızı sadece birer eşya değil, evinizin ruhu olarak görüyoruz. {{ config('dilekhaliyikama.kurulus_yili') }}'den beri her ilmekte hijyen, her dokunuşta uzmanlık vaat ediyoruz.

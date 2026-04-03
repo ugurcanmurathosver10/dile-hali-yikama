@@ -38,7 +38,7 @@
         </h1>
 
         <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400" class="text-lg sm:text-2xl text-gray-200 font-light max-w-3xl mb-12 drop-shadow-lg leading-relaxed">
-            Halı, koltuk ve perdeleriniz için sıradan bir yıkama değil; dokularına zarar vermeyen, anti-bakteriyel bir <strong class="text-white font-semibold">yeniden doğuş</strong> sunuyoruz.
+            Halı, koltuk ve perdeleriniz için sıradan bir yıkama değil; dokularına zarar vermeyen, anti-bakteriyel bir <strong class="text-white font-semibold">temizlik</strong> sunuyoruz.
         </p>
 
         <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600" class="flex flex-col sm:flex-row items-center gap-5 w-full sm:w-auto">

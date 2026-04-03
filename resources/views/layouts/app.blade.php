@@ -6,8 +6,13 @@
     <title>@yield('title', config('dilekhaliyikama.firma_adi') . ' | Dünyanın En İyi Temizliği')</title>
     <meta name="description" content="@yield('meta_description', config('dilekhaliyikama.firma_adi') . ' olarak Akçay, Edremit ve çevresinde halı, koltuk, yorgan ve perde yıkamada %100 hijyen garantili hizmet sunuyoruz.')">
     <meta name="author" content="{{ config('dilekhaliyikama.firma_adi') }}">
+
     @vite(['resources/css/app.css', 'resources/js/app.js'])
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
 <body class="bg-gray-50 text-gray-800 font-sans antialiased overflow-x-hidden">
@@ -31,6 +36,7 @@
             });
         });
     </script>
+
     <div class="fixed bottom-0 left-0 w-full z-[60] flex md:hidden shadow-[0_-10px_15px_-3px_rgba(0,0,0,0.1)]">
         <a href="tel:{{ config('dilekhaliyikama.telefon') }}" class="flex-1 bg-brand-dark text-white flex justify-center items-center py-4 font-bold text-lg active:bg-brand-light transition">
             <svg class="w-6 h-6 mr-2 animate-pulse" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path></svg>

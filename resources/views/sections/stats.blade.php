@@ -33,7 +33,7 @@
                 <div class="flex flex-col items-center justify-center relative group px-2">
                     <div class="absolute inset-0 bg-yellow-400/5 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
                     <div class="text-3xl sm:text-4xl lg:text-6xl font-black text-transparent bg-clip-text bg-gradient-to-b from-white via-yellow-200 to-yellow-600 drop-shadow-[0_2px_10px_rgba(250,204,21,0.2)] mb-1">
-                        5k+
+                        10k+
                     </div>
                     <div class="text-[10px] sm:text-xs lg:text-sm font-bold uppercase tracking-[0.2em] text-gray-400 text-center transition-colors group-hover:text-yellow-400">
                         <span class="hidden sm:inline">Mutlu </span>Müşteri
